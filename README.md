@@ -27,4 +27,4 @@ This project is a Sales Dashboard created using Power BI to analyze sales perfor
 
 ## 📷 Dashboard Preview
 ![Dashboard](https://github.com/chhavi1005/Sales-Dashboard-PowerBi/blob/main/Dashboard%20preview.png)
-![Dashboard](https://github.com/chhavi1005/Sales-Dashboard-PowerBi/blob/main/Screenshot%202026-05-04%20111556.png)
+![Dashboard](https://github.com/chhavi1005/Sales-Dashboard-PowerBi/blob/main/Chart%20.%20png)
