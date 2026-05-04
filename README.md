@@ -20,3 +20,4 @@ This project is a Sales Dashboard created using Power BI to analyze sales perfor
 - Profit Analysis
 
 ## 📷 Dashboard Preview
+![Dashboard]()
